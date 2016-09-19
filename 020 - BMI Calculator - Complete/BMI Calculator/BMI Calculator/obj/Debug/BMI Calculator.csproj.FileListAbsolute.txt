@@ -1,0 +1,6 @@
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csprojResolveAssemblyReference.cache
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\BryanLel\Desktop\Program Challenges\C#\020\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
